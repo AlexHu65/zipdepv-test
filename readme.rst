@@ -14,3 +14,23 @@ Filter endpoint example:
 http://apocryphe.com.mx/zipdev-test/filter/surname/ok
 
 I provide too , the sql db file.
+
+
+Insert parameters and name:
+
+firstname:str
+surname:str
+phones: str, strN. (each phone will be separated with comma)
+email: str, strN. (each email will be separated with comma)
+
+
+Delete:
+
+id:int 
+
+Update: 
+
+firstname:str
+surname:str
+phones: str, strN. (each phone will be separated with comma)
+email: str, strN. (each email will be separated with comma)
